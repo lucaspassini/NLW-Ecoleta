@@ -1,6 +1,6 @@
 # Next Level Week 
 ![logo](https://user-images.githubusercontent.com/47937044/84119725-288e5480-aa0b-11ea-963a-8dedbecbc11a.png)
-NLW JavaScript Web Application
+
 
 
 ![nlwhome](https://user-images.githubusercontent.com/47937044/84118444-64281f00-aa09-11ea-977a-b0ada14305cd.png)
