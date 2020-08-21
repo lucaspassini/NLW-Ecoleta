@@ -21,7 +21,7 @@
 ![nlwcadastro](https://user-images.githubusercontent.com/47937044/84118455-68543c80-aa09-11ea-8f7f-825913e277bd.png)
 
 
-## 🚀 Tecnologies
+## 🚀 Technologies
 
 This project was developed with:
 
