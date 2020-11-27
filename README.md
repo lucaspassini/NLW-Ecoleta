@@ -32,12 +32,6 @@ This project was developed with:
 - [SQLite](https://www.sqlite.org/index.html)
 - [Nunjucks](https://mozilla.github.io/nunjucks/)
 
-## 🔗 Links 
-
-### Notion
-- [Front-End](https://www.notion.so/Front-end-7c8a1a9a6df547058f1473f899a3b9c4)
-- [Back-End](https://www.notion.so/Back-end-a5747fd6bfa34e799e6e0ded51f5ec63)
-
 
 
 ## :recycle: Contributing
@@ -47,6 +41,13 @@ This project was developed with:
 3. Commit your Changes (`git commit -m 'Add some Feature'`)
 4. Push to the Branch (`git push origin feature/Feature`)
 5. Open a Pull Request.
+
+
+## 🔗 Links 
+
+### Notion
+- [Front-End](https://www.notion.so/Front-end-7c8a1a9a6df547058f1473f899a3b9c4)
+- [Back-End](https://www.notion.so/Back-end-a5747fd6bfa34e799e6e0ded51f5ec63)
 
 
 
