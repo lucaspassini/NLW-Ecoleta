@@ -15,10 +15,11 @@
   
 
 ## 🖼 Screenshots
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/47937044/84118444-64281f00-aa09-11ea-977a-b0ada14305cd.png" width="750"/>
 
 <img src="https://user-images.githubusercontent.com/47937044/84118455-68543c80-aa09-11ea-8f7f-825913e277bd.png" width="750"/>
+<p/>
 
 
 
